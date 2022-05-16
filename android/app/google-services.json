@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "65869604750",
+    "project_id": "fluttermap-d2a08",
+    "storage_bucket": "fluttermap-d2a08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65869604750:android:011ef28f2bd21a7bd9e6df",
+        "android_client_info": {
+          "package_name": "com.aaddev.my_loc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65869604750-i5qe9cad8djmrkkci8ougdbbbh2nkr09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAet6txqIYNGbjMiDx988icT_Tx0BFQDkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65869604750-i5qe9cad8djmrkkci8ougdbbbh2nkr09.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "65869604750-bb640t0shn82tl5sudjlj8pcd73s5rtf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.googleMapLive"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65869604750:android:6b6978aaa7d69899d9e6df",
+        "android_client_info": {
+          "package_name": "com.example.my_loc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65869604750-i5qe9cad8djmrkkci8ougdbbbh2nkr09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAet6txqIYNGbjMiDx988icT_Tx0BFQDkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65869604750-i5qe9cad8djmrkkci8ougdbbbh2nkr09.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "65869604750-bb640t0shn82tl5sudjlj8pcd73s5rtf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.googleMapLive"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
