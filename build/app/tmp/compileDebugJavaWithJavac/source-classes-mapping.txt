@@ -1,4 +1,0 @@
-io/flutter/plugins/GeneratedPluginRegistrant.java
- io.flutter.plugins.GeneratedPluginRegistrant
-com/aaddev/my_loc/BuildConfig.java
- com.aaddev.my_loc.BuildConfig
